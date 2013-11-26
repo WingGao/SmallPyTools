@@ -5,6 +5,6 @@ All are small tools. Just for code tests.
 
 ---
 
-### PowerAlarm
+### PowerLog
 
 A program for loging a computer's power state.
